@@ -1,5 +1,5 @@
 
-# BlackJack - Consumindo API
+# Consumindo API
 
 Este projeto é um painel de controle de ações desenvolvido em JavaScript, projetado para fornecer aos usuários informações em tempo real sobre preços de ações, variações percentuais e gráficos de histórico.
 
