@@ -3,10 +3,10 @@
 Este projeto consiste em um painel interativo desenvolvido em JavaScript, focado na exibição de informações em tempo real sobre ações.
 O dashboard consome uma API de dados financeiros, permitindo que o usuário visualize:
 
-💵 Preço atual das ações /
-📈 Variação percentual diária /
-📊 Gráficos de histórico /
-🔄 Atualização dinâmica dos dados /
+💵 Preço atual das ações \
+📈 Variação percentual diária \
+📊 Gráficos de histórico \
+🔄 Atualização dinâmica dos dados \
 
 A aplicação foi construída com foco em simplicidade, desempenho e experiência do usuário, servindo como introdução prática ao consumo de APIs e manipulação de elementos dinâmicos no front-end.
 
